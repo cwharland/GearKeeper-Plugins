@@ -3,7 +3,7 @@
     "Author": "GearKeeper",
     "Name": "GearKeeper",
     "InternalName": "GearKeeper",
-    "AssemblyVersion": "0.0.1.1",
+    "AssemblyVersion": "0.0.1.2",
     "Description": "Leveling gear coverage, protection lists, and inventory moves.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cwharland/GearKeeper-Plugins",
@@ -19,7 +19,7 @@
     "LoadPriority": 0,
     "Punchline": "See which gear can help your other jobs level.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.1/GearKeeper.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.1/GearKeeper.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.2/GearKeeper.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.2/GearKeeper.zip"
   }
 ]
