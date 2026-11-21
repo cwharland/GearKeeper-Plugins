@@ -3,7 +3,7 @@
     "Author": "GearKeeper",
     "Name": "GearKeeper",
     "InternalName": "GearKeeper",
-    "AssemblyVersion": "0.0.1.4",
+    "AssemblyVersion": "0.0.1.5",
     "Description": "Leveling gear coverage, protection lists, and inventory moves.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cwharland/GearKeeper-Plugins",
@@ -19,8 +19,8 @@
     "LoadPriority": 0,
     "Punchline": "See which gear can help your other jobs level.",
     "AcceptsFeedback": true,
-    "Changelog": "- Pause individual jobs in **Plan \u2192 Leveling jobs**. Preview and move the paused job\u2019s spare Armoury gear to bags while GearKeeper preserves coverage for jobs you\u2019re still leveling.",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.4/GearKeeper.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.4/GearKeeper.zip"
+    "Changelog": "- Choose priority jobs per character in **Overview \u2192 Edit priority jobs**. The picker lists combat jobs by role with their current levels.\n- Refresh the in-game UI with a dark blue palette, highlighted tabs, and a two-column job picker with aligned levels.\n- Overview shows each priority job\u2019s first AutoDuty item-level or weapon blocker, including known Armoire gear and pieces to retrieve along the way.\n- Storage previews eligible Armoury gear for non-priority jobs. Duties without an item-level requirement no longer have an artificial per-slot floor.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.5/GearKeeper.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.5/GearKeeper.zip"
   }
 ]
