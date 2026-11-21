@@ -3,7 +3,7 @@
     "Author": "GearKeeper",
     "Name": "GearKeeper",
     "InternalName": "GearKeeper",
-    "AssemblyVersion": "0.0.1.3",
+    "AssemblyVersion": "0.0.1.4",
     "Description": "Leveling gear coverage, protection lists, and inventory moves.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cwharland/GearKeeper-Plugins",
@@ -19,7 +19,8 @@
     "LoadPriority": 0,
     "Punchline": "See which gear can help your other jobs level.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.3/GearKeeper.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.3/GearKeeper.zip"
+    "Changelog": "- Pause individual jobs in **Plan \u2192 Leveling jobs**. Preview and move the paused job\u2019s spare Armoury gear to bags while GearKeeper preserves coverage for jobs you\u2019re still leveling.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.4/GearKeeper.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/cwharland/GearKeeper-Plugins/main/versions/0.0.1.4/GearKeeper.zip"
   }
 ]
